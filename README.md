@@ -1,0 +1,49 @@
+# Wuthering Waves、Mars Atlas和Sterling Maffe – To the Finale（Original Game Soundtrack）
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:15.57] Shadows open up their wings like butterflies (Ah)
+[00:19.90] Creeping in where silence dies
+[00:23.10] Shackles holding up the truth in another light
+[00:27.49] Leaving it where eyes could pry
+[00:42.99] 
+[00:30.88] When they kiss the ground, the night will fall
+[00:35.00] Every step we take, there's no turning back
+[00:38.68] When you sing the song as we went down
+[00:42.63] You screamed it in silence
+[00:44.48] It tore through the sky
+[00:55.98] 
+[00:49.43] Woah, we hit like thunderstorms strike
+[00:54.64] Hundrеd million lions, we rise
+[00:57.05] Woah, no crown, no wall is too high
+[01:02.27] Coming back to burn through their pridе
+[01:04.70] Woah, let it come, let it roar
+[01:09.79] This is the sound of a closing war
+[01:26.79] 
+[01:16.11] (Oh, oh, oh)
+[01:26.80] (Woah-oh, woah-oh, woah-oh)
+[01:40.30] 
+[01:31.81] Answering the call to ring in aching lives
+[01:36.14] Tallies keep on raising high (Ah)
+[01:39.44] When it all amounts to losing count
+[01:43.53] Every breath we take, there's no coming back
+[02:06.03] 
+[01:47.09] When they try and shout, but breathe to drown
+[01:51.17] They scream but in silence and tear past the skies
+[02:16.17] 
+[01:58.04] Woah, we hit like thunderstorms strike
+[02:03.23] Hundred million lions, we rise
+[02:05.64] Woah, no crown, no wall is too high
+[02:10.92] Coming back to burn through their pride
+[02:13.25] Woah, let it fly, let it soar
+[02:18.40] Up from the eye of a perfect storm
+[02:23.17] Of a perfect storm (Oh)
+[02:34.67] 
+[02:28.51] (Oh, oh; woah-oh)
+[02:32.23] Woah-oh, woah-oh
+[02:38.81] Let it roar (Oh, oh, oh)
+[02:50.91] (Woah-oh, woah-oh)
+[02:59.91] 
+[02:55.28] Oh, just let it roar (Ah, hmm)
+```
