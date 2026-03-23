@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "To the Finale（Original Game Soundtrack）",
+  "base_artist": "Wuthering Waves、Mars Atlas和Sterling Maffe",
+  "createdAt": "2026-03-23T11:32:41.484953Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "To the Finale（Original Game Soundtrack）",
+      "artist": "Wuthering Waves, Mars Atlas, Sterling Maffe",
+      "has_synced": true,
+      "path": "select/01_To_the_Finale(Original_Game_Soundtrack)_Wuthering_Waves,_Mars_Atlas,_Sterling_Maffe.lrc"
+    }
+  ]
+}
